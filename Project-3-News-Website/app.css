@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(220, 220, 220);
+}
+
+#topHeading {
+    color: white;
+    background-color: #264653;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+#card {
+    padding: 0;
+}
+
+#time {
+    position: relative;
+    color: green;
+    float: right;
+
+    /* top: 28px; */
+    bottom: 10px;
+    left: 80px;
+
+}
+
+#currentTime {
+    float: left;
+    font-size: 20px;
+}
+
+#currentDate {
+    float: right;
+    font-size: 20px;
+}
